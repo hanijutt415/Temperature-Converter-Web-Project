@@ -1,0 +1,31 @@
+body {
+    padding: 50px 100px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#container {
+    text-align: center;
+    background: #3F5EFB;
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+    padding: 50px;
+}
+
+.input-div {
+    display: inline-block;
+}
+
+.inp {
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    width: 250px;
+    text-align: center;
+}
+
+label {
+    font-size: 22px;
+}
